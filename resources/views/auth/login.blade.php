@@ -3,7 +3,6 @@
 @section('content')
 
 <main class="wrapper-whole bg-images py-5" style="background-image: url('/images/login-register-bg.jpg');">
-<!-- testsasdasd -->
     <div class="container-login">
         <div class="wrapper">
             <div class="title mb-2">
