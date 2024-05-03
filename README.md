@@ -2,9 +2,7 @@
 
 
 # npm install
-
-# Screenshot, Web design 
-# Mobile View & Laptop View
+# Web design for Mobile View & Laptop View
 
 ![LetsUkayActualDesign](https://github.com/shiedapilos/lets-ukay/assets/152658123/f71c9b85-2189-4f4b-8e8a-0a7d36cc1b8b)
 
